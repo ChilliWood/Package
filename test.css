@@ -21,3 +21,11 @@ body {
     text-shadow: black;
     text-align: center;
 }
+
+.rules h1 {
+    user-select: none;
+    -moz-user-select: none;
+    font-size: 70px;
+    color: red;
+    text-align: center;
+}
